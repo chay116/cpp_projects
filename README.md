@@ -31,11 +31,7 @@ UNIX 명령어 인터프리터인 shell의 구현을 목표
   - `$?`
   - `ctrl-C`, `ctrl-D`, `ctrl-\`
 
-#### 1.2. Flow Chart
-
-![image](./images/minishell_flow.png)
-
-#### 1.3. Result
+#### 1.2. Result
 
 ![image](./images/minishell.png)
 
